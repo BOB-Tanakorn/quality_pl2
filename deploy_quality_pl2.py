@@ -1,4 +1,3 @@
-#test
 import pyodbc
 import cv2
 import tensorflow as tf
